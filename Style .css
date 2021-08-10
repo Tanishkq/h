@@ -1,0 +1,10 @@
+body{
+    background-color: aqua;
+    text-align: center;
+    font-family: cursive;
+    font-weight: bold;
+    font-size: medium;
+}
+#S_name{
+    text-align: right;
+}
